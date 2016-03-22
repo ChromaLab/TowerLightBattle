@@ -1,0 +1,1 @@
+Colocar en esta carpeta todos los archivos de CSS y de JavaScript de terceros.
